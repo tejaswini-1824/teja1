@@ -33,9 +33,11 @@ background-color: #45a049;
 }
 </style> 
 </head> 
-<body> 
-<h2>User Registration Form</h2> 
-<form> 
+<body>
+<h1>hi</h1>
+<h2>User Registration Form</h2>
+<form>
+
 <label for="name">Name:</label> 
 <input type="text" id="name" name="name" required><br> 
 <label for="email">Email:</label> 
